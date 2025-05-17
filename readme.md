@@ -10,53 +10,53 @@ Bu doküman, proje geliştirme sürecindeki raporların tanıtımını ve proje 
 
 
 ## Raporlar
-1. Proje Başlatma Belgesi
+1. Proje Başlatma Belgesi:
    Bu belge; projenin tanımını, amaç ve hedeflerini, anahtar paydaşlarını, kapsamını, proje ekibi ve rol dağılımını, temel gereksinimlerini, olası risklerini ve
    önemli kilometre taşlarını içeren bilgilerle projenin resmi olarak başlatılmasını sağlar.
 
-2. Paydaş Analiz Raporu
+2. Paydaş Analiz Raporu:
    Bu rapor, projede yer alan (etkileyen) ve projeden etkilenen paydaşların belirlenmesini ve analiz edilmesini amaçlar.
    Paydaşların rolleri, beklentileri ve proje üzerindeki etkileri değerlendirilerek; proje sürecinde etkili iletişim ve işbirliği stratejileri geliştirilmesine katkı sağlanır.
 
-3. Gereksinim Analiz Raporu
+3. Gereksinim Analiz Raporu:
    Bu rapor, projenin arayüz, işlevsel ve işlevsel olmayan gereksinimlerini ortaya çıkarmayı hedefler. Sistemin çalışması şeklini ve kullanıcı ihtiyaçlarını
    netleştirerek projenin başarılı bir şekilde yürütülmesine katkı verir.
 
-4. Entegrasyon Raporu
+4. Entegrasyon Raporu:
    Bu rapor, proje bileşenlerinin uyumlu ve sorunsuz bir şekilde bir araya getirilmesi sürecini, süreç içerisindeki araç ve yöntemleri ve süreci başarıya
    götürecek ölçütleri açıklar.
 
-5. Kapsam Raporu
+5. Kapsam Raporu:
    Bu rapor, projenin sınırlarını ve içerdiği iş paketlerini tanımlar. Projenin kapsadığı ve kapsamadığı faaliyetleri belirler ve proje sürecindeki
    kullanılan teknolojilere değinir.
 
-6. Zaman Yönetim Raporu
+6. Zaman Yönetim Raporu:
    Bu rapor, projenin her aşamasına ait zaman planlamasını detaylı biçimde sunarken; Gantt ve PERT çizelgeleriyle süreçlerin görsel ve analitik takibini amaçlar.
    Zaman yönetimi açısından projenin etkin bir şekilde ilerlemesini destekler.
 
-7. Kaynak Plan Raporu
+7. Kaynak Plan Raporu:
    Bu rapor, projede kullanılan kaynakların planlanması, tahsisi, kullanımı ve izlenmesine yönelik çalışmaları içerir.
 
-8. Maliyet Yönetim Raporu
+8. Maliyet Yönetim Raporu:
    Bu rapor, projenin kaynaklarını esas alarak harcama kalemlerine ayırır ve bu kalemler doğrultusunda oluşan mali bütçeyi sunar.
 
-9. Risk Analiz Raporu
+9. Risk Analiz Raporu:
    Bu rapor, proje geliştirme sürecinde karşılabilecek genel ve teknik riskleri detaylı bir şekilde içerirken; bu risklerin olası etkilerini ve
    onlara karşı alınabilecek önlemleri sunar.
 
-10. Kalite Raporu
+10. Kalite Raporu:
     Bu rapor, projenin kalite hedeflerini belirler, kalite güvencesi, kontrolü ve ölçütü yöntemlerini tanımlar
     ve kalite standartlarına uygunluğunu değerlendirir.
 
-11. İletişim Plan Raporu
+11. İletişim Plan Raporu:
     Bu rapor, projedeki paydaşlar arasındaki bilgi akışının gerçekleşme şeklini, kullanılan iletişim araçlarını ve yöntemlerini
     ve sorumlulukların dağıtılışını ifade eder.
 
-12. SWOT Analizi
+12. SWOT Analizi:
     Bu rapor, projenin iç-dış çevresini anlamayı sağlayan ve olumlu-olumsuz taraflarını gösteren;
     güçlü ve zayıf yönlerini, karşılaşabileceği fırsatları ve tehditleri sistemli bir şekilde değerlendirir.
 
-13. Proje Kapatma Belgesi
+13. Proje Kapatma Belgesi:
     Bu belge, projenin amaç ve hedeflerin gerçekleşme durumunu, proje ekibinin rol dağılımına göre gerçekleştirdiklerini, temel gereksinimlerin değerlendirilmesini,
     teslim edilen çıktılarını ve çıkarılan dersleri ve önemli noktaları içeren bilgilerle projenin resmi olarak kapatılmasını sağlar.
 
